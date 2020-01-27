@@ -1,0 +1,5 @@
+players:
+  test:
+    nickname: test
+    enabled: false
+    half_enabled: false

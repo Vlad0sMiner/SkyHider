@@ -1,0 +1,10 @@
+  name: SkyHider
+  main: ru.vlad0sminer.hider.SkyHider
+  version: 1.0
+  commands:
+    hideall:
+        usage: "Введите /hideall <on/off> для скрытия себя от всех окружаюх и скрытия всех игроков"
+        description: "Введите /hideall <on/off> для скрытия себя от всех окружаюх и скрытия всех игроков"
+    halfhide:
+        usage: "Введите /halfhide <on/off> для скрытия себя от всех окружаюх"
+        description: "Введите /halfhide <on/off> для скрытия себя от всех окружаюх"
